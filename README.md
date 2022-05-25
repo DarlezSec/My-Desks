@@ -97,7 +97,7 @@ nos abriremos el archivo que guardabamos en la configuracion de kitty el archivo
 les dejare un post de mi pagina web sobre como editar y agregar valores a tu neofetch.
 
 
-* ![Como agregar y cambiar los valores a tu configuracion de neofetch](https://darlezsec.vercel.app/p/modificar-y-agregar-valores-a-tu-neofetch/)
+* [Como agregar y cambiar los valores a tu configuracion de neofetch](https://darlezsec.vercel.app/p/modificar-y-agregar-valores-a-tu-neofetch/)
 
 
 
