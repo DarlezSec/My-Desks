@@ -10,6 +10,10 @@ A simple repository to show my desktop environments and the advances that I have
 
 ---
 
+![](https://github.com/DarlezSec/My-Desks/blob/main/Imagenes/IMG_20220531_001833_877.png)
+
+---
+
 ### Instalacion de mi config 
 
 ### Kitty
